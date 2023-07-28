@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ATMReactTs/static/css/main.02688185.css",
+    "main.js": "/ATMReactTs/static/js/main.77136057.js",
+    "static/js/787.108c06d2.chunk.js": "/ATMReactTs/static/js/787.108c06d2.chunk.js",
+    "index.html": "/ATMReactTs/index.html",
+    "main.02688185.css.map": "/ATMReactTs/static/css/main.02688185.css.map",
+    "main.77136057.js.map": "/ATMReactTs/static/js/main.77136057.js.map",
+    "787.108c06d2.chunk.js.map": "/ATMReactTs/static/js/787.108c06d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02688185.css",
+    "static/js/main.77136057.js"
+  ]
+}
